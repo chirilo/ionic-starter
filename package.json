@@ -1,7 +1,7 @@
 {
-  "name": "ionic-starter",
+  "name": "outpix-ionic",
   "version": "0.0.1",
-  "description": "Start a new ionic project in seconds !",
+  "description": "OutPix - Photo and Event sharing Ionic App",
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-sass": "^2.0.4",
